@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Franka\'s Flowers</string>
+    <string name="franka_s_flowers">Franka\'s Flowers</string>
+    <string name="phone">Phone:</string>
+    <string name="phonenumber">(503) 588-5555</string>
+    <string name="email_us">Email us:</string>
+    <string name="franka_email">Franka@fflowers.biz</string>
+    <string name="send_my_order">Send My Order</string>
+</resources>
